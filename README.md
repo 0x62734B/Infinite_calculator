@@ -1,3 +1,3 @@
-# basic of system programming - team project
+# Basic of system programming - team project
 
-* programming infinite calculator using c.
+* Programming infinite calculator using c.
